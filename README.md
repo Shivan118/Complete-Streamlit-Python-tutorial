@@ -1,7 +1,6 @@
 # Complete-Streamlit-Python-tutorial
 
-|SNo| Topic | Link |
-
-|01| Complete Streamlit Tutorial| [Check Here](https://youtu.be/bZKO8jwOfjg)
-
+|SNo| Topic | SubTopic | Link |
+|-|-|-|-|
+|00| Introduction |Introducntion part 1| [Explanation video link](https://www.youtube.com/?gl=IN)
 |-|-|-|-|
