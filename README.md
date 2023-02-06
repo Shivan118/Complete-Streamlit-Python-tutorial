@@ -2,5 +2,5 @@
 
 |SNo| Topic  | Link |
 |-|-|-|
-|01| Complete Streamlit Tutorial| [Explanation video link](https://www.youtube.com/?gl=IN)
+|01| Complete Streamlit Tutorial| [Explanation video link](https://youtu.be/bZKO8jwOfjg)
 |-|-|-|
