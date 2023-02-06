@@ -1,7 +1,9 @@
 # Complete-Streamlit-Python-tutorial
 
-|Topic| Youtube challen | Github|
-|-|-|
+|SNo| Topic | Link |
+|-|-|-|-|
 
-|Complete Streamlit Tutorial| [Check Here](https://youtu.be/bZKO8jwOfjg)
-|-|-|
+
+|01| Complete Streamlit Tutorial| [Check Here](https://youtu.be/bZKO8jwOfjg)
+
+|-|-|-|-|
